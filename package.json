@@ -1,6 +1,5 @@
 {
   "name": "ts-design-pattern",
-  "module": "index.ts",
   "type": "module",
   "private": true,
   "devDependencies": {
